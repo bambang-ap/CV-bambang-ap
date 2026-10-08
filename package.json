@@ -1,0 +1,16 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "md-to-pdf CV-Bambang-Adhitya.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "md-to-pdf": "^5.2.5",
+    "pandoc-bin": "^0.2.0"
+  }
+}

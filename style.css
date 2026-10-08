@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+
+:root {
+  --font-size: 13px;
+  --line-height: 1.6;
+  --section-spacing: 10px;
+  --heading: #1c1917;
+  --body: #44403c;
+  --link: #c2410c;
+  --accent: #c2410c;
+  --muted: #d6d3d1;
+}
+
+body {
+  font-family: 'Merriweather', Georgia, 'Times New Roman', serif;
+  font-size: var(--font-size);
+  line-height: var(--line-height);
+  color: var(--body);
+}
+
+h1 {
+  font-size: 2.2em;
+  font-weight: 700;
+  color: var(--heading);
+  margin: 0 0 4px;
+}
+
+h2 {
+  font-size: 1.25em;
+  font-weight: 700;
+  color: var(--heading);
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 3px;
+  margin: calc(var(--section-spacing) * 1.5) 0 var(--section-spacing);
+}
+
+h3 {
+  font-size: 1.05em;
+  font-weight: 700;
+  color: var(--heading);
+  margin: var(--section-spacing) 0 2px;
+}
+
+.timeline {
+  --dot-size: 10px;
+  --line-width: 2px;
+  --gutter: 18px;
+  border-left: var(--line-width) solid var(--accent);
+  margin-left: calc(var(--dot-size) / 2);
+  padding-left: var(--gutter);
+}
+
+.timeline h3 {
+  position: relative;
+}
+
+.timeline h3::before {
+  content: '';
+  position: absolute;
+  top: 0.35em;
+  left: calc(-1 * var(--gutter) - var(--line-width) / 2 - var(--dot-size) / 2);
+  width: var(--dot-size);
+  height: var(--dot-size);
+  border-radius: 50%;
+  background: var(--accent);
+}
+
+a {
+  color: var(--link);
+  text-decoration: underline;
+}
+
+h2,
+h3 {
+  break-after: avoid;
+}
+
+li {
+  break-inside: avoid;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--muted);
+}
+
+p {
+  margin: 3px 0;
+}
+
+ul {
+  margin: 3px 0;
+  padding-left: 18px;
+}
+
+li {
+  margin: 2px 0;
+}
