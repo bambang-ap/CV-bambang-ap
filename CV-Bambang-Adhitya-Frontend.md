@@ -7,20 +7,22 @@ pdf_options:
 
 # Bambang Adhitya
 
-**Senior React Native Engineer**
+**Frontend Engineer (React · Next.js · TypeScript)**
 
-<adhyt.scott@gmail.com> · Karawang, West Java (open to Jakarta/remote)<br>[github.com/bambang-ap](https://github.com/bambang-ap) · [linkedin.com/in/bambang-ap](https://linkedin.com/in/bambang-ap)
+<adhyt.scott@gmail.com> · Karawang, West Java (remote)<br>[github.com/bambang-ap](https://github.com/bambang-ap) · [linkedin.com/in/bambang-ap](https://linkedin.com/in/bambang-ap) · [portfolio/demo link]
 
 ## Summary
 
-React Native & TypeScript engineer with 10 years of experience across fintech, banking, and F&B. Built AI chatbot and product-recommendation features for CIMB Niaga's OCTOSmart, and POS/PPOB apps for small merchants. Comfortable across the stack (Node.js, Next.js, PostgreSQL) with a focus on clean, maintainable code.
+Software engineer with 10 years of experience, specializing in React and TypeScript across web and mobile (React Native), with Next.js for fullstack projects. Has built products for banking, fintech, and F&B. Turns Figma designs into reusable, responsive UI, integrates REST APIs, and manages state with React Query, Zustand, and Redux Toolkit. Experienced shipping complete products alone or in small teams, from requirements to production.
 
 ## Skills
 
-- **Mobile:** React Native, TypeScript, NativeWind/Tailwind, Firebase, OneSignal, Jest
-- **State & data:** React Query, Redux Toolkit, Zustand, Recoil, Context API, Axios
-- **Web & backend:** React, Next.js, Node.js, tRPC, Zod, Sequelize, PostgreSQL
-- **Other:** REST API integration, Figma-to-UI implementation, Ionic/AngularJS (legacy)
+- **Frontend:** React, Next.js, TypeScript, HTML, CSS, Tailwind CSS, responsive and mobile-first UI
+- **State & data:** React Query, Zustand, Redux Toolkit, Context API, Axios, REST API integration
+- **Design to code:** Figma-to-UI implementation, reusable component libraries
+- **Backend & data:** Node.js, tRPC, Zod, Sequelize, PostgreSQL
+- **Testing & tooling:** Jest, Git
+- **Mobile:** React Native, NativeWind
 
 ## Experience
 
@@ -42,32 +44,31 @@ Family focus and community digitalization work (see *Community Work* below).
 
 *PT. IDstar Cipta Teknologi (Professional Services) · Dec 2024 – Nov 2025*
 
-- Built AI chatbot features (chat history, market updates, personalized product recommendations) used by customers.
+- Implemented reusable, responsive React Native components in TypeScript from Figma designs.
+- Integrated REST APIs with React Query and Redux Toolkit.
+- Built AI chatbot features (chat history, market updates, personalized product recommendations).
 - Contributed to data-driven features "Reason to Buy" and "Next Product to Buy".
-- Implemented reusable, responsive React Native components from Figma designs.
-- Integrated REST APIs with TypeScript, React Query, and Redux Toolkit.
 
 ### Fullstack Developer (Freelance) — PT. Indoheat Metal Inti
 
 *May 2023 – Dec 2024*
 
-- Built an inventory system covering PO creation, incoming and outgoing delivery notes (Surat Jalan Masuk/Keluar), and stock tracking.
-- Stack: Next.js, tRPC, Zod, Sequelize, PostgreSQL.
+- Built an inventory web app in Next.js covering PO creation, incoming and outgoing delivery notes, and stock tracking.
+- Validated input with Zod and exposed type-safe APIs with tRPC on top of Sequelize and PostgreSQL.
 
-<h3 class="new-page">Mobile Engineer II — Flash Coffee</h3>
+### Mobile Engineer II — Flash Coffee
 
 *PT. Sembilan Puluh Enam Derajat · Nov 2021 – May 2023*
 
 - Built the **Barista App**: real-time order tracking and status updates for customer orders.
 - Built the **POS App**: in-store ordering, receipt generation, and inventory updates per transaction.
-- Styled with NativeWind; added unit tests with Jest.
-- Stack: React Native, Recoil, React Query, Firebase, OneSignal.
+- Styled with NativeWind (Tailwind) and added unit tests with Jest.
 
 ### React Native Developer — AWAN
 
 *PT. Aplikasi Wirausaha Nusantara · Oct 2020 – Oct 2021*
 
-- Maintained POS and PPOB features for small merchants (warung, small shops), including payment gateway integration and automatic bookkeeping.
+- Maintained POS and PPOB features for small merchants, including payment gateway integration.
 - Fixed transaction/payment bugs and improved loading time, API calls, and UI responsiveness.
 
 ### Earlier Experience
@@ -75,7 +76,7 @@ Family focus and community digitalization work (see *Community Work* below).
 - **React Native Developer**, PT. Dwimitra Raya Sejati (Nov 2019 – Sep 2020): migrated KiosBank App to Kiosawan, adding POS to PPOB.
 - **Ionic Developer**, PT. Bertiga Mitra Solusi (Aug 2018 – Sep 2019): immigration apps (public passport booking, internal reporting and monitoring).
 - **Ionic Developer**, PT. Integrasi Media Kreasi (Apr 2017 – Jul 2018): Sun Life eLearning and AXA eRecruitment.
-- **Software Developer**, Numazu Trans Teknologi (Dec 2015 – Feb 2017): Tableau/Splunk dashboard for KPPPA (Fujitsu); PHP web chat; Java-to-Python backend migration.
+- **Software Developer**, Numazu Trans Teknologi (Dec 2015 – Feb 2017): Tableau/Splunk dashboard, PHP/jQuery web chat, Java-to-Python backend migration.
 
 </div>
 

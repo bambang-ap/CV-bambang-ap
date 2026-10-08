@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "md-to-pdf CV-Bambang-Adhitya.md"
+    "build": "md-to-pdf CV-Bambang-Adhitya.md",
+    "build:fe": "md-to-pdf CV-Bambang-Adhitya-Frontend.md"
   },
   "keywords": [],
   "author": "",
