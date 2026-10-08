@@ -54,9 +54,7 @@ Family focus and community digitalization work (see *Community Work* below).
 - Built an inventory system covering PO creation, incoming and outgoing delivery notes (Surat Jalan Masuk/Keluar), and stock tracking.
 - Stack: Next.js, tRPC, Zod, Sequelize, PostgreSQL.
 
-<div class="page-break"></div>
-
-### Mobile Engineer II — Flash Coffee
+<h3 class="new-page">Mobile Engineer II — Flash Coffee</h3>
 
 *PT. Sembilan Puluh Enam Derajat · Nov 2021 – May 2023*
 
